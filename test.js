@@ -1,2 +1,2 @@
 console.log("hello");
-console.log("Nice to meet you! Who are you?");
+console.log("Nice to meet you! What's your name?");
